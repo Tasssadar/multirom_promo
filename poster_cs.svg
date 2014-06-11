@@ -18,8 +18,8 @@
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="poster_cs.svg"
    inkscape:export-filename="/home/tassadar/data/soc/soc_multirom/poster/renders/poster_cs.png"
-   inkscape:export-xdpi="300.01077"
-   inkscape:export-ydpi="300.01077">
+   inkscape:export-xdpi="95.998322"
+   inkscape:export-ydpi="95.998322">
   <defs
      id="defs5547">
     <pattern
@@ -163,8 +163,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="1007.2479"
-     inkscape:cy="572.04368"
+     inkscape:cx="488.71964"
+     inkscape:cy="1659.4177"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -460,7 +460,7 @@
          style="font-size:50px">operačních systémů na jedno mobilní zařízení</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#808080;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light;stroke-opacity:1"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#535353;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light;stroke-opacity:1"
        x="1052.1864"
        y="-1581.6385"
        id="text8290"
@@ -469,7 +469,7 @@
          id="tspan8292"
          x="1052.1864"
          y="-1581.6385"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-opacity:1">Vojtěch Boček</tspan></text>
+         style="fill:#535353;fill-opacity:1;stroke:none;stroke-opacity:1">Vojtěch Boček</tspan></text>
     <g
        id="g8552"
        transform="matrix(1.3588369,0,0,1.3588369,1736.3763,-1899.1353)">
@@ -1344,7 +1344,7 @@
          id="flowPara9039"
          style="text-align:end;text-anchor:end">Běžná <flowSpan
    style="font-weight:bold;text-align:end;text-anchor:end;-inkscape-font-specification:Roboto Bold"
-   id="flowSpan9041">mobilní zařízení s Androidem</flowSpan> podporují instalaci pouze <flowSpan
+   id="flowSpan9041">mobilní zařízení s Androidem</flowSpan> podporují instalaci pouze <flowSpan
    style="font-weight:bold;-inkscape-font-specification:Roboto Bold"
    id="flowSpan9043">jednoho</flowSpan> operačního systému – Androidu. </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
@@ -1416,7 +1416,7 @@
          style="text-align:start;text-anchor:start"
          id="flowPara9091"><flowSpan
            style="font-weight:bold;text-align:start;text-anchor:start"
-           id="flowSpan9093">Android nebo Ubuntu? Můžete mít oba!</flowSpan></flowPara></flowRoot>    <flowRoot
+           id="flowSpan9093">Android, nebo Ubuntu? Můžete mít oba!</flowSpan></flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot9095"
        style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Roboto;font-style:normal;font-weight:300;font-size:50px;line-height:125%;letter-spacing:0px;word-spacing:0px;-inkscape-font-specification:Roboto Light;font-stretch:normal;font-variant:normal;text-anchor:middle;text-align:center"><flowRegion
@@ -1481,7 +1481,7 @@
          id="flowPara9318"
          style="font-weight:300;text-align:justify;text-anchor:start;-inkscape-font-specification:Roboto Light"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start;-inkscape-font-specification:Roboto Bold"
-   id="flowSpan9479">Boot manager</flowSpan> se zobrazuje při každém startu zařízení. Uživatel v něm vybere, který systém si přeje spustit, nebo může nechat nabootovat výchozí systém. V této části je také většina kódu starající se o samotný <flowSpan
+   id="flowSpan9479">Boot manager</flowSpan> se zobrazuje při každém startu zařízení. Uživatel v něm vybere, který systém si přeje spustit, nebo může nechat nabootovat výchozí systém. V této části je také většina kódu starajícího se o samotný <flowSpan
    style="font-style:italic;font-weight:300;text-align:justify;text-anchor:start;-inkscape-font-specification:Roboto Light"
    id="flowSpan9324">multiboot.</flowSpan></flowPara></flowRoot>    <g
        id="g13308"
@@ -1579,7 +1579,7 @@
          style="text-align:justify;text-anchor:start;fill:#000000"
          id="flowPara9734"><flowSpan
    style="font-weight:bold;text-align:justify;text-anchor:start;fill:#000000"
-   id="flowSpan9736">Kexec-hardboot patch</flowSpan> je úprava Linuxového jádra, na kterém je Android postavený. Umožňuje spouštění jiného jádra (a tím pádem i systému) z toho již běžícího. Jedná se o nejsložitější část MultiROM, která je však klíčová pro její funkci.</flowPara></flowRoot>    <text
+   id="flowSpan9736">Kexec-hardboot patch</flowSpan> je úprava linuxového jádra, na kterém je Android postavený. Umožňuje spouštění jiného jádra (a tím pádem i systému) z toho již běžícího. Jedná se o nejsložitější část MultiROM, která je však klíčová pro její funkci.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-size:30px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
        x="-384"
@@ -3946,7 +3946,7 @@
              id="rect13408" /></flowRegion><flowPara
            id="flowPara13410"><flowSpan
    style="font-style:italic"
-   id="flowSpan13454">Multiboot</flowSpan> je na PC naprosto bežná funkce, která nachází své <flowSpan
+   id="flowSpan13454">Multiboot</flowSpan> je na PC naprosto běžná funkce, která nachází své <flowSpan
    style="font-weight:bold"
    id="flowSpan13456">uplatnění</flowSpan> především u <flowSpan
    style="font-weight:bold"
@@ -3992,7 +3992,7 @@
    style="font-weight:bold;text-align:justify;text-anchor:start"
    id="flowSpan13633">18 314 aktivních instalací</flowSpan> a toto číslo nadále roste. Projekt má za sebou <flowSpan
    style="font-weight:bold"
-   id="flowSpan6343">úspěšnou crowdfundingovou kampaň </flowSpan>na serveru Indiegogo.com, jejíž cílem bylo pořízení testovacího zařízení a upravení kódu tak, aby byl více přenositelný. Cílová částka $500 byla vybrána za 24 dní a já jsem všechny závazky uvedené v projektu splnil ve stanoveném termínu. </flowPara><flowPara
+   id="flowSpan6343">úspěšnou crowdfundingovou kampaň </flowSpan>na serveru Indiegogo.com, jejímž cílem bylo pořízení testovacího zařízení a upravení kódu tak, aby byl snáze přenositelný. Cílová částka $500 byla vybrána za 24 dní a já jsem všechny závazky uvedené v projektu splnil ve stanoveném termínu. </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara6607" /><flowPara
          style="text-align:justify;text-anchor:start"
