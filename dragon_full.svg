@@ -16,9 +16,9 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="dragon_full.svg"
-   inkscape:export-filename="/home/tassadar/data/soc/soc_multirom/poster/icon13.png"
-   inkscape:export-xdpi="11.25"
-   inkscape:export-ydpi="11.25">
+   inkscape:export-filename="/home/tassadar/data/soc/soc_multirom/poster/renders/dragon_full-preview.png"
+   inkscape:export-xdpi="39.199219"
+   inkscape:export-ydpi="39.199219">
   <defs
      id="defs7143" />
   <sodipodi:namedview
@@ -29,15 +29,15 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="598.74526"
-     inkscape:cy="583.51687"
+     inkscape:cx="857.31669"
+     inkscape:cy="523.52733"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1032"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true">
@@ -87,7 +87,10 @@
        inkscape:transform-center-y="-2.340198" />
     <g
        id="g9087"
-       transform="matrix(1.6769538,0,0,1.6769538,-121.76791,-562.55719)">
+       transform="matrix(1.6769538,0,0,1.6769538,-121.76791,-562.55719)"
+       inkscape:export-filename="/home/tassadar/data/soc/soc_multirom/img/dragon_full.png"
+       inkscape:export-xdpi="120.03104"
+       inkscape:export-ydpi="120.03104">
       <path
          inkscape:connector-curvature="0"
          id="path7448"
