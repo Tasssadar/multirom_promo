@@ -162,9 +162,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="2103.7143"
-     inkscape:cy="1065.9156"
+     inkscape:zoom="1"
+     inkscape:cx="508.60404"
+     inkscape:cy="154.03192"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -209,7 +209,7 @@
        id="guide9089" />
     <sodipodi:guide
        orientation="1,0"
-       position="70,1342"
+       position="77.999998,208.49999"
        id="guide9302" />
     <sodipodi:guide
        orientation="1,0"
@@ -279,6 +279,10 @@
        orientation="1,0"
        position="613.06158,1092.48"
        id="guide3485" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="146.44488,174.5"
+       id="guide3479" />
   </sodipodi:namedview>
   <metadata
      id="metadata5550">
@@ -288,7 +292,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -2368,7 +2372,7 @@
        sodipodi:cy="265.95844"
        sodipodi:rx="16.41498"
        sodipodi:ry="16.41498"
-       d="m 169.07428,265.95844 a 16.41498,16.41498 0 1 1 -32.82996,0 16.41498,16.41498 0 1 1 32.82996,0 z"
+       d="m 169.07428,265.95844 c 0,9.06574 -7.34924,16.41497 -16.41498,16.41497 -9.06574,0 -16.41498,-7.34923 -16.41498,-16.41497 0,-9.06575 7.34924,-16.41498 16.41498,-16.41498 9.06574,0 16.41498,7.34923 16.41498,16.41498 z"
        transform="matrix(-0.15589063,0.01584085,0.01584085,0.15589063,169.1293,-248.56116)" />
     <path
        style="fill:none;stroke:#f72f2f;stroke-width:15.94488144;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -3814,18 +3818,17 @@
        y="273.68784"
        sodipodi:insensitive="true" />
     <g
-       id="g13435"
-       transform="translate(-0.01095,-9.563381)">
+       id="g3515">
       <rect
          transform="matrix(0,-1,1,0,0,0)"
-         y="108.72103"
-         x="-520.15704"
+         y="103.43756"
+         x="-510.59366"
          height="17.55794"
          width="88.338387"
          id="rect9419-7"
          style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none" />
       <flowRoot
-         transform="translate(20.68457,-1938.4878)"
+         transform="translate(20.67362,-1948.0512)"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          id="flowRoot13313"
          xml:space="preserve"><flowRegion
@@ -3847,10 +3850,9 @@
    style="font-weight:bold"
    id="flowSpan13448">operačních systémů</flowSpan> je s MultiROM mnohem jednodušší  – není potřeba ztrácet čas zálohou a poté obnovou předchozího systému!</flowPara></flowRoot>    </g>
     <g
-       id="g13426"
-       transform="translate(-2.0800781e-5,-21.701047)">
+       id="g3526">
       <g
-         transform="translate(9,101.08245)"
+         transform="translate(3.7165289,79.381452)"
          id="g13352">
         <rect
            style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -3870,7 +3872,7 @@
            transform="matrix(0,-1,1,0,0,0)" />
       </g>
       <flowRoot
-         transform="translate(19,-1710.7349)"
+         transform="translate(18.999979,-1732.4359)"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          id="flowRoot13313-3"
          xml:space="preserve"><flowRegion
@@ -3890,10 +3892,9 @@
    style="font-weight:bold"
    id="flowSpan13464">fungující telefon.</flowSpan></flowPara></flowRoot>    </g>
     <g
-       id="g13416"
-       transform="translate(2.7234247,-3.715732e-5)">
+       id="g3538">
       <g
-         transform="translate(0,-2.7728469)"
+         transform="translate(-5.2834749,-2.7728469)"
          id="g13399">
         <rect
            transform="matrix(0,-1,1,0,0,0)"
@@ -3921,7 +3922,7 @@
            transform="matrix(0,-1,1,0,0,0)" />
       </g>
       <flowRoot
-         transform="translate(-2.2998047,-1942.1068)"
+         transform="translate(0.42362,-1942.1068)"
          style="font-size:30px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:justify;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
          id="flowRoot13404"
          xml:space="preserve"><flowRegion
