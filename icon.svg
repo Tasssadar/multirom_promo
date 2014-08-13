@@ -15,11 +15,11 @@
    id="svg2"
    inkscape:label="Pozadí"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.5 r10040"
    sodipodi:docname="icon.svg"
-   inkscape:export-filename="/home/tassadar/AndroidStudioProjects/MultiROMMgrProject/MultiROMMgr/src/main/res/drawable-xxhdpi/ic_launcher.png"
-   inkscape:export-xdpi="12.66"
-   inkscape:export-ydpi="12.66">
+   inkscape:export-filename="/home/tassadar/AndroidStudioProjects/MultiROMManagerDonation/app/ic_launcher_web.png"
+   inkscape:export-xdpi="45"
+   inkscape:export-ydpi="45">
   <defs
      id="defs4084">
     <linearGradient
@@ -348,9 +348,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="858.77043"
-     inkscape:cy="416.20277"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="559.01509"
+     inkscape:cy="111.55054"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -414,6 +414,22 @@
        orientation="1,0"
        position="267.14286,840.71429"
        id="guide4746" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="20,1014.2857"
+       id="guide6331" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="655.71429,17.142857"
+       id="guide6333" />
+    <sodipodi:guide
+       orientation="0.70710678,0.70710678"
+       position="-211.42857,974.28571"
+       id="guide6335" />
+    <sodipodi:guide
+       orientation="0.70710678,0.70710678"
+       position="-368.57143,830"
+       id="guide6337" />
   </sodipodi:namedview>
   <metadata
      id="metadata4087">
@@ -2028,5 +2044,29 @@
        style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
        d="m 150.70535,2672.0229 c -10.12981,0.5375 -28.04385,10.332 -62.812497,29.3125 -71.78045,39.1854 -71.79462,39.1981 7.78125,39.6875 79.575867,0.4893 79.576667,0.4873 71.781247,-39.1875 -4.01951,-20.4573 -5.96665,-30.3847 -16.75,-29.8125 z m -15.0625,19.6875 c 4.70299,0.029 5.62589,4.7145 7.46875,14.0937 3.68572,18.7585 3.68642,18.7626 -33.9375,18.5313 -37.623917,-0.2314 -37.625697,-0.2229 -3.6875,-18.75 16.9691,-9.2636 25.45326,-13.9039 30.15625,-13.875 z"
        id="path5335-8-819-2-0-3-6-2-21-2-1-8-0-8-1" />
+    <g
+       id="g6343"
+       transform="translate(6.0609149,783.87837)">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect6328"
+         d="m 17.86964,279.0125 727.84464,727.8446 -301.42857,0 L 20,582.57143 z"
+         style="fill:#f72f2f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="translate(0,28.362183)" />
+      <text
+         transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+         sodipodi:linespacing="125%"
+         id="text6339"
+         y="354.93829"
+         x="728.43347"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Roboto;-inkscape-font-specification:Roboto Light"
+         xml:space="preserve"><tspan
+           style="font-size:150px;font-weight:bold;fill:#ffffff"
+           y="354.93829"
+           x="728.43347"
+           id="tspan6341"
+           sodipodi:role="line">DONATE</tspan></text>
+    </g>
   </g>
 </svg>
