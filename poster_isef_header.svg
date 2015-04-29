@@ -26,20 +26,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1463.5714"
-     inkscape:cy="442.85714"
+     inkscape:cx="1481.1237"
+     inkscape:cy="147.49845"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
      borderlayer="true"
-     inkscape:snap-global="true"
+     inkscape:snap-global="false"
      inkscape:snap-page="true"
      inkscape:window-width="1920"
      inkscape:window-height="1180"
      inkscape:window-x="-4"
      inkscape:window-y="-3"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:object-nodes="true" />
   <metadata
      id="metadata4380">
     <rdf:RDF>
@@ -48,7 +53,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -65,5 +70,101 @@
        x="0"
        y="197.36217"
        sodipodi:insensitive="true" />
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9880"
+       width="3240"
+       height="855"
+       x="0"
+       y="197.36217" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect9882"
+       width="3133.7007"
+       height="748.70081"
+       x="53.149658"
+       y="250.51176" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1620.0763"
+       y="533.79077"
+       id="text9854"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9856"
+         x="1620.0763"
+         y="533.79077"
+         style="font-size:312.5px;fill:#333333;fill-opacity:1">MultiROM</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1623.6926"
+       y="755.49286"
+       id="text9854-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan9856-9"
+         x="1623.6926"
+         y="755.49286"
+         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1">The multiboot modification</tspan><tspan
+         sodipodi:role="line"
+         x="1623.6926"
+         y="927.36786"
+         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1"
+         id="tspan9876">for Android devices</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#f72f2f;stroke-width:11.50645256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 625.71429,593.17083 1988.57141,0"
+       id="path9878"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="197.36217"
+       x="0"
+       height="855"
+       width="3240"
+       id="rect9930"
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="250.51176"
+       x="53.149658"
+       height="748.70081"
+       width="3133.7007"
+       id="rect9932"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text9934"
+       y="533.79077"
+       x="1620.0763"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:312.5px;fill:#333333;fill-opacity:1"
+         y="533.79077"
+         x="1620.0763"
+         id="tspan9936"
+         sodipodi:role="line">MultiROM</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text9938"
+       y="755.49286"
+       x="1623.6926"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1"
+         y="755.49286"
+         x="1623.6926"
+         id="tspan9940"
+         sodipodi:role="line">The multiboot modification</tspan><tspan
+         id="tspan9942"
+         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1"
+         y="927.36786"
+         x="1623.6926"
+         sodipodi:role="line">for Android devices</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       id="path9944"
+       d="m 625.71429,593.17083 1988.57141,0"
+       style="fill:none;fill-rule:evenodd;stroke:#f72f2f;stroke-width:11.50645256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
