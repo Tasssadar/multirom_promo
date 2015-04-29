@@ -660,11 +660,11 @@
      borderlayer="true"
      units="in"
      showgrid="false"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g8565"
      inkscape:document-units="mm"
-     inkscape:cy="3501.9613"
-     inkscape:cx="877.8839"
-     inkscape:zoom="0.5"
+     inkscape:cy="272.08176"
+     inkscape:cx="2014.9591"
+     inkscape:zoom="0.70710678"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="1.0"
@@ -9714,8 +9714,8 @@
          d="m 2025.9426,922.67243 c 132.9786,12.34581 434.1245,26.12692 322.648,-186.80707 -40.1687,-76.72769 -82.7487,-69.59112 -125.892,-89.28462 -43.1432,-19.69379 -90.3182,-29.87117 -135.5293,-22.56232 -108.1697,17.48723 -252.7192,112.63124 -290.7339,153.403 -56.5153,60.61406 50.8829,113.49784 72.5013,122.04687 21.6183,8.54889 -3.1435,8.33552 157.0059,23.20414 z"
          style="fill:#333333;fill-opacity:1;stroke:none" />
       <path
-         inkscape:transform-center-y="-10.646929"
-         inkscape:transform-center-x="-20.323054"
+         inkscape:transform-center-y="-8.2009302"
+         inkscape:transform-center-x="-21.712481"
          d="m 148.80222,149.78665 c 1.9866,83.90934 1.9866,83.90934 -71.674323,43.67511 C 3.4669705,153.22754 3.4669705,153.22754 75.141298,109.55242 146.81563,65.877298 146.81563,65.877298 148.80222,149.78665 Z"
          inkscape:randomized="0"
          inkscape:rounded="1"
@@ -9730,10 +9730,10 @@
          id="path5335-8-819-2-0-3-6-2-21-2-1-8-0-8-3-0"
          style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:type="star"
-         transform="matrix(0.70199113,-0.29008859,0.93939584,0.54328972,1655.8732,850.55944)" />
+         transform="matrix(0.66913186,-0.35945165,0.98942803,0.4457134,1651.4581,871.79015)" />
       <path
-         inkscape:transform-center-y="-5.033641"
-         inkscape:transform-center-x="-9.6089638"
+         inkscape:transform-center-y="-3.8771746"
+         inkscape:transform-center-x="-10.265944"
          d="m 148.80222,149.78665 c 1.9866,83.90934 1.9866,83.90934 -71.674323,43.67511 C 3.4669705,153.22754 3.4669705,153.22754 75.141298,109.55242 146.81563,65.877298 146.81563,65.877298 148.80222,149.78665 Z"
          inkscape:randomized="0"
          inkscape:rounded="1"
@@ -9748,10 +9748,10 @@
          id="path5335-8-819-2-0-3-05-60-4-9-7-5-8-24"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:type="star"
-         transform="matrix(0.33190537,-0.13715552,0.44415168,0.25687052,1765.2689,875.23371)" />
+         transform="matrix(0.31636932,-0.16995077,0.46780719,0.21073588,1762.7854,885.29837)" />
       <path
-         inkscape:transform-center-y="-4.6650555"
-         inkscape:transform-center-x="-11.059617"
+         inkscape:transform-center-y="-3.7968776"
+         inkscape:transform-center-x="-11.557996"
          d="m 148.80222,149.78665 c 1.9866,83.90934 1.9866,83.90934 -71.674323,43.67511 C 3.4669705,153.22754 3.4669705,153.22754 75.141298,109.55242 146.81563,65.877298 146.81563,65.877298 148.80222,149.78665 Z"
          inkscape:randomized="0"
          inkscape:rounded="1"
@@ -9766,10 +9766,10 @@
          id="path5335-8-819-2-0-3-6-2-21-2-1-8-0-88-0"
          style="fill:#333333;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:type="star"
-         transform="matrix(0.28148211,0.33128583,0.64580412,-0.02104253,2132.2563,886.47798)" />
+         transform="matrix(0.29837832,0.31615321,0.64382752,-0.05469804,2130.8653,892.9522)" />
       <path
-         inkscape:transform-center-y="-2.2057605"
-         inkscape:transform-center-x="-5.229101"
+         inkscape:transform-center-y="-1.7952871"
+         inkscape:transform-center-x="-5.464747"
          d="m 148.80222,149.78665 c 1.9866,83.90934 1.9866,83.90934 -71.674323,43.67511 C 3.4669705,153.22754 3.4669705,153.22754 75.141298,109.55242 146.81563,65.877298 146.81563,65.877298 148.80222,149.78665 Z"
          inkscape:randomized="0"
          inkscape:rounded="1"
@@ -9784,7 +9784,7 @@
          id="path5335-8-819-2-0-3-05-60-4-9-7-5-1"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
          sodipodi:type="star"
-         transform="matrix(0.13308634,0.15663383,0.30533986,-0.00994905,2196.3119,903.26722)" />
+         transform="matrix(0.14107497,0.14947904,0.30440531,-0.02586157,2195.7094,906.37754)" />
       <g
          id="g8332"
          transform="matrix(0.43071983,-0.22008438,0.22008438,0.43071983,1426.3245,1613.8531)">
@@ -10926,7 +10926,7 @@
        xml:space="preserve"
        id="flowRoot10040"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(-87.068604,-3324.5654)"><flowRegion
+       transform="translate(-87.068604,-3304.5654)"><flowRegion
          id="flowRegion10042"><rect
            id="rect10044"
            width="940.57367"
@@ -10938,7 +10938,7 @@
    style="font-weight:bold"
    id="flowSpan9582">Multiboot</flowSpan>, the ability to install multiple operating systems to one computer alongside each other (e.g. Windows and Linux), is a completely ordinary feature in the land of desktop computers. However, <flowSpan
    style="font-weight:bold"
-   id="flowSpan9590">portable devices lack this functionality</flowSpan> and are locked to the single Android installation by default.</flowPara><flowPara
+   id="flowSpan9590">portable devices lack this functionality</flowSpan> by default.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
          id="flowPara9697" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
@@ -10956,13 +10956,7 @@
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
          id="flowPara9596" /><flowPara
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
-         id="flowPara9598" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
-         id="flowPara9584">	True, on desktop computers, multiboot is used almost exclusively by advanced users, so it might seem pointless to bring it to Android devices. But due to its openness, a similar group of advanced users has formed around Android. This <flowSpan
-   style="font-weight:bold"
-   id="flowSpan9588">large community of potential users</flowSpan> is growing every day and would very much <flowSpan
-   style="font-weight:bold"
-   id="flowSpan9586">benefit from a multiboot modification</flowSpan>. </flowPara></flowRoot>    <rect
+         id="flowPara9584" /></flowRoot>    <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect9300-8-2-6-2"
        width="1008.4252"
@@ -13685,7 +13679,7 @@
    id="flowSpan9565">I keep it up‑to‑date</flowSpan> with the latest changes in Android as well as its custom community-made distributions and add support for any new operating system ported to any device I maintain.</flowPara><flowPara
          id="flowPara9463"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:34px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /></flowRoot>    <g
-       transform="matrix(0.52399964,0,0,0.52399964,1138.2997,-1310.5133)"
+       transform="matrix(0.52399964,0,0,0.52399964,1138.2997,-1350.5133)"
        id="g9624">
       <path
          style="fill:none;fill-rule:evenodd;stroke:#333333;stroke-width:88.58267975;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -13708,10 +13702,10 @@
     <path
        style="fill:#f72f2f;fill-opacity:1"
        id="path4531-2-9"
-       d="m 579.71991,-2731.0598 c -4.10083,0 -7.42355,3.3228 -7.42355,7.4236 0,4.0992 3.32272,7.4224 7.42355,7.4224 4.09917,0 7.42234,-3.3232 7.42234,-7.4224 0,-4.1012 -3.32284,-7.4236 -7.42234,-7.4236 z m 53.00293,33.7389 c -3.55074,2.0498 -4.76619,6.588 -2.71716,10.1371 2.05025,3.5508 6.58798,4.7669 10.13873,2.7171 3.54952,-2.0494 4.76563,-6.5875 2.71594,-10.1379 -2.04948,-3.5492 -6.58798,-4.7657 -10.13751,-2.7163 z m -36.87848,-26.3165 c 0,-7.3365 3.64568,-13.8165 9.2207,-17.7404 l -5.42713,-9.0908 c -6.49658,4.3405 -11.32897,10.9759 -13.33634,18.7474 2.3448,1.9113 3.84297,4.8218 3.84297,8.0846 0,3.262 -1.49817,6.1725 -3.84341,8.0834 2.00703,7.7723 6.83987,14.4077 13.33633,18.7478 l 5.42758,-9.0916 c -5.57502,-3.9231 -9.2207,-10.4028 -9.2207,-17.7404 z m 21.68455,-21.6846 c 11.32852,0 20.62106,8.686 21.59512,19.7615 l 10.57961,-0.1545 c -0.52057,-8.1772 -4.09253,-15.5203 -9.582,-20.9173 -2.82227,1.0663 -6.08266,0.9047 -8.90062,-0.7226 -2.82138,-1.6288 -4.59189,-4.3765 -5.07677,-7.3584 -2.74302,-0.7591 -5.62994,-1.173 -8.61501,-1.173 -5.13358,0 -9.98366,1.2051 -14.29194,3.3393 l 5.15723,9.2427 c 2.77629,-1.2919 5.87001,-2.0177 9.13438,-2.0177 z m 0,43.3696 c -3.26471,0 -6.35809,-0.7258 -9.13482,-2.0177 l -5.15801,9.2435 c 4.30873,2.1333 9.15914,3.3389 14.29283,3.3389 2.98507,0 5.87199,-0.4139 8.61534,-1.173 0.48488,-2.9819 2.25572,-5.7296 5.07755,-7.3596 2.81795,-1.6265 6.07834,-1.7881 8.90061,-0.7214 5.48914,-5.3974 9.06099,-12.7405 9.58079,-20.9177 l -10.57961,-0.1545 c -0.97328,11.077 -10.26616,19.7615 -21.59468,19.7615 z m 15.19272,-48.0019 c 3.55029,2.0506 8.08891,0.8341 10.13794,-2.7151 2.05014,-3.5508 0.8348,-8.0889 -2.71594,-10.1391 -3.54997,-2.0494 -8.08814,-0.8332 -10.13828,2.7175 -2.04947,3.5492 -0.83325,8.0877 2.71628,10.1367 z"
+       d="m 579.71991,-2771.0598 c -4.10083,0 -7.42355,3.3228 -7.42355,7.4236 0,4.0992 3.32272,7.4224 7.42355,7.4224 4.09917,0 7.42234,-3.3232 7.42234,-7.4224 0,-4.1012 -3.32284,-7.4236 -7.42234,-7.4236 z m 53.00293,33.7389 c -3.55074,2.0498 -4.76619,6.588 -2.71716,10.1371 2.05025,3.5508 6.58798,4.7669 10.13873,2.7171 3.54952,-2.0494 4.76563,-6.5875 2.71594,-10.1379 -2.04948,-3.5492 -6.58798,-4.7657 -10.13751,-2.7163 z m -36.87848,-26.3165 c 0,-7.3365 3.64568,-13.8165 9.2207,-17.7404 l -5.42713,-9.0908 c -6.49658,4.3405 -11.32897,10.9759 -13.33634,18.7474 2.3448,1.9113 3.84297,4.8218 3.84297,8.0846 0,3.262 -1.49817,6.1725 -3.84341,8.0834 2.00703,7.7723 6.83987,14.4077 13.33633,18.7478 l 5.42758,-9.0916 c -5.57502,-3.9231 -9.2207,-10.4028 -9.2207,-17.7404 z m 21.68455,-21.6846 c 11.32852,0 20.62106,8.686 21.59512,19.7615 l 10.57961,-0.1545 c -0.52057,-8.1772 -4.09253,-15.5203 -9.582,-20.9173 -2.82227,1.0663 -6.08266,0.9047 -8.90062,-0.7226 -2.82138,-1.6288 -4.59189,-4.3765 -5.07677,-7.3584 -2.74302,-0.7591 -5.62994,-1.173 -8.61501,-1.173 -5.13358,0 -9.98366,1.2051 -14.29194,3.3393 l 5.15723,9.2427 c 2.77629,-1.2919 5.87001,-2.0177 9.13438,-2.0177 z m 0,43.3696 c -3.26471,0 -6.35809,-0.7258 -9.13482,-2.0177 l -5.15801,9.2435 c 4.30873,2.1333 9.15914,3.3389 14.29283,3.3389 2.98507,0 5.87199,-0.4139 8.61534,-1.173 0.48488,-2.9819 2.25572,-5.7296 5.07755,-7.3596 2.81795,-1.6265 6.07834,-1.7881 8.90061,-0.7214 5.48914,-5.3974 9.06099,-12.7405 9.58079,-20.9177 l -10.57961,-0.1545 c -0.97328,11.077 -10.26616,19.7615 -21.59468,19.7615 z m 15.19272,-48.0019 c 3.55029,2.0506 8.08891,0.8341 10.13794,-2.7151 2.05014,-3.5508 0.8348,-8.0889 -2.71594,-10.1391 -3.54997,-2.0494 -8.08814,-0.8332 -10.13828,2.7175 -2.04947,3.5492 -0.83325,8.0877 2.71628,10.1367 z"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0.77553959,0,0,0.77553959,421.50113,-2764.8619)"
+       transform="matrix(0.77553959,0,0,0.77553959,421.50113,-2804.8619)"
        id="Layer_1"
        ns2:layer="yes"
        ns2:dimmedPercent="50"
@@ -13795,9 +13789,53 @@
       </g>
     </g>
     <path
-       d="m 524.9936,-2695.7208 c -3.03406,7.4386 -4.86404,12.3043 -8.24205,19.522 2.07113,2.1954 4.61337,4.7521 8.74195,7.6395 -4.43864,-1.8264 -7.46631,-3.6601 -9.72896,-5.563 -4.32322,9.021 -11.09645,21.8712 -24.84152,46.5682 10.80316,-6.2369 19.17759,-10.0819 26.98216,-11.5491 -0.33515,-1.4414 -0.52569,-3.0005 -0.51274,-4.6274 l 0.0128,-0.346 c 0.17141,-6.9214 3.77187,-12.2438 8.03696,-11.8825 4.26509,0.3614 7.5803,6.2686 7.40888,13.19 -0.0323,1.3023 -0.17914,2.5551 -0.43582,3.7171 7.71983,1.5103 16.00471,5.3455 26.6617,11.4979 -2.10134,-3.8686 -3.97698,-7.3561 -5.76816,-10.6774 -2.82137,-2.1868 -5.7642,-5.033 -11.76704,-8.1139 4.12601,1.0721 7.08017,2.3089 9.38288,3.6916 -18.21128,-33.9061 -19.68602,-38.4117 -25.93107,-53.067 z"
+       d="m 524.9936,-2735.7208 c -3.03406,7.4386 -4.86404,12.3043 -8.24205,19.522 2.07113,2.1954 4.61337,4.7521 8.74195,7.6395 -4.43864,-1.8264 -7.46631,-3.6601 -9.72896,-5.563 -4.32322,9.021 -11.09645,21.8712 -24.84152,46.5682 10.80316,-6.2369 19.17759,-10.0819 26.98216,-11.5491 -0.33515,-1.4414 -0.52569,-3.0005 -0.51274,-4.6274 l 0.0128,-0.346 c 0.17141,-6.9214 3.77187,-12.2438 8.03696,-11.8825 4.26509,0.3614 7.5803,6.2686 7.40888,13.19 -0.0323,1.3023 -0.17914,2.5551 -0.43582,3.7171 7.71983,1.5103 16.00471,5.3455 26.6617,11.4979 -2.10134,-3.8686 -3.97698,-7.3561 -5.76816,-10.6774 -2.82137,-2.1868 -5.7642,-5.033 -11.76704,-8.1139 4.12601,1.0721 7.08017,2.3089 9.38288,3.6916 -18.21128,-33.9061 -19.68602,-38.4117 -25.93107,-53.067 z"
        id="path2518"
        style="fill:#f72f2f;fill-opacity:1;fill-rule:evenodd;stroke:none"
        inkscape:connector-curvature="0" />
-  </g>
+    <flowRoot
+       transform="translate(-87.068604,-3168.5654)"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot9718"
+       xml:space="preserve"><flowRegion
+         id="flowRegion9720"><rect
+           y="211.29138"
+           x="153"
+           height="978.22791"
+           width="940.57367"
+           id="rect9722" /></flowRegion><flowPara
+         id="flowPara9724"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9730"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9732"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9735"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9737"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9739"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9741"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9743"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9745"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9747"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start" /><flowPara
+         id="flowPara9749"
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start">	True, on desktop computers, multiboot is used almost exclusively by <flowSpan
+   style="font-weight:bold"
+   id="flowSpan9765">advanced users</flowSpan>, so it might seem pointless to bring it to Android devices.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
+         id="flowPara9761">	But due to its openness, a similar group of developers and enthusiasts has formed around Android. This <flowSpan
+   id="flowSpan9751"
+   style="font-weight:bold">large community of potential users</flowSpan> is growing every day and would very much <flowSpan
+   id="flowSpan9753"
+   style="font-weight:bold">benefit from a multiboot modification</flowSpan>. </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
+         id="flowPara9759">	That is why I have created MultiROM.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:35px;font-family:'Roboto Slab';-inkscape-font-specification:'Roboto Slab Light';text-align:justify;text-anchor:start"
+         id="flowPara9757" /></flowRoot>  </g>
 </svg>
