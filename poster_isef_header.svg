@@ -29,8 +29,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="1382.5523"
-     inkscape:cy="147.49845"
+     inkscape:cx="1623.9498"
+     inkscape:cy="448.80889"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,11 +43,46 @@
      inkscape:window-x="-4"
      inkscape:window-y="-3"
      inkscape:window-maximized="1"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:object-nodes="true" />
+     inkscape:object-nodes="true">
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,3240"
+       id="guide7651" />
+    <sodipodi:guide
+       position="3240.0001,0"
+       orientation="-855,0"
+       id="guide7653" />
+    <sodipodi:guide
+       position="3240.0001,855.00002"
+       orientation="0,-3240"
+       id="guide7655" />
+    <sodipodi:guide
+       position="0,855.00002"
+       orientation="855,0"
+       id="guide7657" />
+    <sodipodi:guide
+       position="0,177.16536"
+       orientation="0,1"
+       id="guide7659"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="3240.0001,0"
+       orientation="-855,0"
+       id="guide7661" />
+    <sodipodi:guide
+       position="3240.0001,855.00002"
+       orientation="0,-3240"
+       id="guide7663" />
+    <sodipodi:guide
+       position="0,855.00002"
+       orientation="855,0"
+       id="guide7665" />
+  </sodipodi:namedview>
   <metadata
      id="metadata4380">
     <rdf:RDF>
@@ -131,43 +166,50 @@
     <rect
        y="250.51176"
        x="53.149658"
-       height="748.70081"
+       height="621.42157"
        width="3133.7007"
        id="rect9932"
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        sodipodi:linespacing="125%"
        id="text9934"
-       y="533.79077"
-       x="1620.0763"
-       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       y="500.12445"
+       x="1620.0635"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:156.09518433px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:312.5px;fill:#333333;fill-opacity:1"
-         y="533.79077"
-         x="1620.0763"
+         style="font-size:260.15863037px;fill:#333333;fill-opacity:1"
+         y="500.12445"
+         x="1620.0635"
          id="tspan9936"
          sodipodi:role="line">MultiROM</tspan></text>
     <text
        sodipodi:linespacing="125%"
        id="text9938"
-       y="755.49286"
-       x="1623.6926"
+       y="680.61975"
+       x="1621.8066"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1"
-         y="755.49286"
-         x="1623.6926"
-         id="tspan9940"
-         sodipodi:role="line">The multiboot modification</tspan><tspan
          id="tspan9942"
-         style="font-size:137.5px;fill:#3f3f3f;fill-opacity:1"
-         y="927.36786"
-         x="1623.6926"
-         sodipodi:role="line">for Android devices</tspan></text>
+         style="font-size:100px;fill:#3f3f3f;fill-opacity:1"
+         y="680.61975"
+         x="1621.8066"
+         sodipodi:role="line">The multiboot modification for Android devices</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path9944"
-       d="m 625.71429,593.17083 1988.57141,0"
+       d="m 625.7143,553.1073 1988.5714,0"
        style="fill:none;fill-rule:evenodd;stroke:#f72f2f;stroke-width:11.50645256;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:187.5px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#3f3f3f;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1619.6484"
+       y="818.61975"
+       id="text7669"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="1619.6484"
+         y="818.61975"
+         style="font-size:80px;fill:#3f3f3f;fill-opacity:1"
+         id="tspan7671">Vojtěch Boček</tspan></text>
   </g>
 </svg>
