@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="36in"
-   height="9.5in"
-   viewBox="0 0 3240.0001 855.00002"
+   width="915mm"
+   height="240mm"
+   viewBox="0 0 3242.1261 850.39372"
    id="svg4375"
    version="1.1"
    inkscape:version="0.91pre4 r13712"
@@ -72,13 +72,13 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="1249.0638"
-     inkscape:cy="510.12005"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="1756.5569"
+     inkscape:cy="300.50059"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     units="in"
+     units="mm"
      borderlayer="true"
      inkscape:snap-global="false"
      inkscape:snap-page="true"
@@ -135,7 +135,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,22 +143,14 @@
      inkscape:label="Vrstva 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-197.36217)">
-    <rect
-       style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:35;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4391"
-       width="3240"
-       height="855"
-       x="0"
-       y="197.36217"
-       sodipodi:insensitive="true" />
+     transform="translate(0,-201.96849)">
     <rect
        style="opacity:1;fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:10.62992096;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect9880"
-       width="3240"
-       height="855"
+       width="3242.1262"
+       height="850.39374"
        x="0"
-       y="197.36217" />
+       y="201.96841" />
     <rect
        y="250.51176"
        x="53.149658"
@@ -193,7 +185,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path9944"
-       d="m 1054.6665,543.98212 2055.4393,0"
+       d="m 1062.6665,543.98212 2055.4393,0"
        style="fill:none;fill-rule:evenodd;stroke:#f72f2f;stroke-width:11.69831181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
        xml:space="preserve"
